@@ -83,7 +83,7 @@ class App extends Component {
         id:0,
         shopId:3,
         item:'A弁当',
-        name:'ばばぞの',
+        name:'tarou',
         expireTime:5,
         dueTime:'12:40',
         edit:false
@@ -91,7 +91,7 @@ class App extends Component {
         id:1,
         shopId:2,
         item:'B弁当',
-        name:'ばばぞの',
+        name:'hanako',
         expireTime:5,
         dueTime:'12:40',
         edit:false        
