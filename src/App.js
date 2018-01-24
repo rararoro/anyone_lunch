@@ -293,10 +293,8 @@ class OrderForm extends Component{
 render(){
   return(<div>
     <Card>
-    <CardHeader 
-      title={<div style={{fontSize:15}}>注文を記入してください</div>}
-      style={{fontSize:'midium'}}
-    />
+   
+   
     </Card>
   </div>)
 }
